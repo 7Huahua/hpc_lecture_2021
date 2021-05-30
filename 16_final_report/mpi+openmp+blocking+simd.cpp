@@ -1,3 +1,4 @@
+//mpicxx -std=c++11 mpi+openmp+blocking+simd.cpp -march=native -o3 -fopenmp
 #include <mpi.h>
 #include <cstdio>
 #include <cstdlib>

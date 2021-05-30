@@ -1,3 +1,4 @@
+//nvcc -std=c++11 mpi+cuda.cu -lmpi
 #include <mpi.h>
 #include <cstdio>
 #include <cmath>
